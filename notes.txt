@@ -1,0 +1,1 @@
+must add the script in PATH so that the command can find it

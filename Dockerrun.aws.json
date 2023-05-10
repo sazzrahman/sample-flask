@@ -1,0 +1,11 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+        "Name": "$awsaccountid.dkr.ecr.$region.amazonaws.com/sample-flask"
+    },
+    "Ports": [
+        {
+            "ContainerPort": 8000
+        }
+    ]
+}
